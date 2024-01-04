@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, world! <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+[![Linkedin: seayou8976](https://img.shields.io/badge/-seayou8976-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seayou8976/)](https://www.linkedin.com/in/seayou8976/)
 
 <!--
 **seayou8976/seayou8976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
