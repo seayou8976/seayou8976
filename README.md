@@ -6,7 +6,7 @@ Let's rip the band-aid off - I am not a programmer. I've been in IT for 10+ year
 
 **What's an Endpoint Engineer?** I'm responsible for implementation, administration, configuration (imaging and automation specifically), troubleshooting, and maintenance of Windows, Mac, and Linux endpoints - physical and virtual.
 
-That being said, I did recently compete CS50x! <img width="15px" src="https://static.vecteezy.com/system/resources/previews/001/202/851/non_2x/duck-emoji-no-png.png">
+That being said, I did recently complete CS50x! <img width="15px" src="https://static.vecteezy.com/system/resources/previews/001/202/851/non_2x/duck-emoji-no-png.png">
 
 [![Linkedin: seayou8976](https://img.shields.io/badge/-seayou8976-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seayou8976/)](https://www.linkedin.com/in/seayou8976/)
 
