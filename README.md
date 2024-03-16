@@ -13,17 +13,21 @@ That being said, I did recently complete CS50x! <img width="15px" src="https://s
 ---
 
 ### 🛠️ Languages and Tools
-#### Advanced
+#### Expert
 <img align="left" alt="Windows" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="left" alt="PowerShell" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Intune" width="30px" style="padding-right:5px" src="https://brandlogos.net/wp-content/uploads/2022/08/microsoft_intune-logo_brandlogos.net_6p2c7.png" />
 <br />
 
-#### Intermediate
+#### Advanced
 <img align="left" alt="Linux" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="macOS" width="30px" style="padding-right:5px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<br />
+
+#### Intermediate
 <img align="left" alt="Azure" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -32,13 +36,12 @@ That being said, I did recently complete CS50x! <img width="15px" src="https://s
 <img align="left" alt="HTML" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />  
 
 #### Novice
 <img align="left" alt="Ansible" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<br />              
+<br />
 <br />
 
 ### 🧑🏻‍🦰 About Me
