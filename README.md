@@ -15,11 +15,11 @@ That being said, I'm currently on my last week of CS50x! <img width="15px" src="
 ### 🛠️ Languages and Tools
 #### Expert
 <img align="left" alt="Windows" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img align="left" alt="PowerShell" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Intune" width="30px" style="padding-right:5px" src="https://brandlogos.net/wp-content/uploads/2022/08/microsoft_intune-logo_brandlogos.net_6p2c7.png" />
 <br />
 
 #### Advanced
+<img align="left" alt="PowerShell" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="macOS" width="30px" style="padding-right:5px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
