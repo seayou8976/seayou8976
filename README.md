@@ -2,14 +2,14 @@
 
 **`Endpoint Engineer`**
 
-Let's rip the band-aid off - I am not a programmer. I've been in IT for 10+ years on the (primarily Windows) infrastructure side, so most of what I do is PowerShell but I sometimes get to dabble in Bash and/or Python.
+First things first, just to clear the air and set expectations - I am not a developer or programmer. I've been in IT for 10+ years on the (primarily Windows) infrastructure/ops side, so most of what I do is PowerShell but I sometimes dabble in Bash and/or Python.
 
 **What's an Endpoint Engineer?** I'm responsible for implementation, administration, configuration (imaging and automation specifically), troubleshooting, and maintenance of Windows, Mac, and Linux endpoints - physical and virtual.
 
-That being said, I did recently complete CS50x! <img width="15px" src="https://static.vecteezy.com/system/resources/previews/001/202/851/non_2x/duck-emoji-no-png.png">
+That being said, I'm currently on my last week of CS50x! <img width="15px" src="https://static.vecteezy.com/system/resources/previews/001/202/851/non_2x/duck-emoji-no-png.png">
 
-[![Linkedin: seayou8976](https://img.shields.io/badge/-seayou8976-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seayou8976/)](https://www.linkedin.com/in/seayou8976/)
-
+[![Linkedin: seayou8976](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seayou8976/)](https://www.linkedin.com/in/seayou8976/)
+[![Hashnode: seayou8976](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://blog.seanyoung.me)](https://blog.seanyoung.me)
 ---
 
 ### 🛠️ Languages and Tools
@@ -35,19 +35,20 @@ That being said, I did recently complete CS50x! <img width="15px" src="https://s
 <img align="left" alt="SQL (Sqlite)" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <br />  
 
 #### Novice
 <img align="left" alt="Ansible" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 <br />
 
 ### 🧑🏻‍🦰 About Me
 
 - 🏢 Currently employed as an **Endpoint Engineer**
-- 🔭 Currently working on the [**Azure Cloud Resume Challenge**](https://cloudresumechallenge.dev/docs/the-challenge/azure/)
+- 🔭 Currently working on the [**Azure Cloud Resume Challenge**](https://cloudresumechallenge.dev/docs/the-challenge/azure/) and [**CS50x**](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 - 🌱 Currently studying **Cloud**, **Infrastructue as Code (IaC)** and **DevOps** principles 
 - 💬 Talk to me about **DJing** 🎧 or **Watchmaking** ⌚
 
