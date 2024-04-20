@@ -6,7 +6,7 @@ First things first, just to clear the air and set expectations - I am not a deve
 
 **What's an Endpoint Engineer?** I'm responsible for end-to-end implementation, administration, configuration, troubleshooting, and maintenance of Windows, Mac, and Linux endpoints - physical and virtual.
 
-That being said, I just recently completed **CS50x**! <img width="15px" src="https://static.vecteezy.com/system/resources/previews/001/202/851/non_2x/duck-emoji-no-png.png">
+That being said, I just recently completed **CS50x**! <img width="20px" src="https://github.com/seayou8976/cs50x_2024/raw/main/duck.png">
 
 [![Linkedin: seayou8976](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seayou8976/)](https://www.linkedin.com/in/seayou8976/)
 [![Hashnode: seayou8976](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://blog.seanyoung.me)](https://blog.seanyoung.me)
